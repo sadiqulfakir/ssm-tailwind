@@ -4,20 +4,46 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/ff8e335007.js" crossorigin="anonymous"></script>
     <title>SSM</title>
   </head>
   <body>
     <div id="header">
       <header>
-        <div class="header-wrap">
-          <div class="header-logo">
-            <img src="./src/assets/photo/logo.png" alt="">
+        <div class="flex p-8 justify-between border-b-8 border-b-primary">
+          <div class="flex items-center">
+            <div class="mr-12">
+            <img class="w-32" src="./src/assets/photo/logo.png" alt="">
+            </div>
+            <nav>
+              <ul class="flex gap-x-14 ">
+                <li><a class="text-black text-xl" href="#">Home</a></li>
+                <li><a class="text-black text-xl" href="#">Find A Therapist</a></li>
+                <li><a class="text-black text-xl" href="#">JOin As A Therapist</a></li>
+                <li><a class="text-black text-xl" href="#">About</a></li>
+                <li><a class="text-black text-xl" href="#">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="flex items-center text-3xl hover:text-secondary cursor-pointer">
+            <i class="fa-solid fa-user pr-1"></i>
+            <i class="fa-solid fa-angle-down"></i>
           </div>
         </div>
       </header>
     </div>
     
-    <div id="footer"></div>
+    <div id="footer">
+      <footer>
+        <div class="">
+          <div class="">
+            <div class=" " style="background-image: url(./src/assets/photo/footer-background.png) ;">
+              <img src="./src/assets/photo/footer-logo.png" alt="">
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
     <!-- Added stylesheet -->
     <script type="module" src="./src/main.js"></script>
   </body>

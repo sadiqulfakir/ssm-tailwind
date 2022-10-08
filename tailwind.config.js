@@ -10,6 +10,9 @@ module.exports = {
         "secondary-100": "#E0914F",
         "secondary-200": "#EEA86D",
       },
+      fontSize: {
+        '3.5xl': '32px'
+      }
     },
   },
   plugins: [],
