@@ -11,7 +11,8 @@ module.exports = {
         secondary: "#E0914F",
         "secondary-100": "#E0914F",
         "secondary-200": "#EEA86D",
-        "red-orange": "#C93305"
+        "red-orange": "#C93305",
+        "low-bg": "rgba(62, 34, 79, 0.9)",
       },
       fontSize: {
         '3.5xl': '32px',
