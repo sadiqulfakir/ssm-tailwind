@@ -2,7 +2,7 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
-  content: ["index.html", "./src/**/*.{js,jsx,ts,tsx,vue,html}"],
+  content: ["index.html","find-therapist.html","join-therapist.html", "./src/**/*.{js,jsx,ts,tsx,vue,html}"],
   theme: {
     extend: {
       colors: {
@@ -26,6 +26,7 @@ module.exports = {
       },
       fontFamily: {
       'popin': 'Poppins, sans-serif',
+      'afternoon': 'Afternoon in Stereo',
       },
       backgroundImage: {
         speak: "url('/src/assets/photo/speak.png')",
