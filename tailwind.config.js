@@ -2,7 +2,7 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
-  content: ["index.html","find-therapist.html","join-therapist.html", "./src/**/*.{js,jsx,ts,tsx,vue,html}"],
+  content: ["index.html","find-therapist.html","join-therapist.html","about.html", "./src/**/*.{js,jsx,ts,tsx,vue,html}"],
   theme: {
     extend: {
       colors: {
