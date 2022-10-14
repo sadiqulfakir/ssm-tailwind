@@ -22,7 +22,8 @@ module.exports = {
         '34': '34%',
         '1-rem': '-1.30rem',
         'r-rem': '-1rem',
-        't-50': '-50%'
+        't-50': '-50%',
+        's32':'32px'
       },
       fontFamily: {
       'popin': 'Poppins, sans-serif',
