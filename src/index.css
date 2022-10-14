@@ -7,6 +7,17 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .input {
+    @apply w-full focus:outline-none text-[#C4C4C4] border px-4 py-[9.5px] border-[#C4C4C4] rounded;
+  }
+}
+@layer components {
+  .input_label {
+    @apply text-base mb-1 inline-block;
+  }
+}
+
 a {
-  @apply text-blue-500 hover:text-blue-400 hover:underline transition-all;
+  @apply text-blue-500 hover:text-secondary hover:underline transition-all;
 }
