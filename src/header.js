@@ -45,11 +45,11 @@ const header = `
                   </div>
                   <div class="pt-2">
                     <ul class="text-center px-2 xs:px-0">
-                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="#">Home</a></li>
-                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="#">Find A Therapist</a></li>
-                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="#">Join As A Therapist</a></li>
-                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="#">About</a></li>
-                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="#">Contact</a></li>
+                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="./index.html">Home</a></li>
+                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="./find-therapist.html">Find A Therapist</a></li>
+                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="./join-therapist.html">Join As A Therapist</a></li>
+                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="./about.html">About</a></li>
+                      <li><a class="text-black text-[18px] xl:text-xl mb-6 inline-block" href="./contact.html">Contact</a></li>
                     </ul>
                     <div class="flex justify-center items-center text-3xl cursor-pointer hover:text-secondary">
                       <i class="fa-solid fa-user pr-1 text-2xl "></i>
