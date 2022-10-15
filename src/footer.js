@@ -39,10 +39,10 @@ const footer = `
                 <div class="">
                   <h6 class="font-semibold text-15px pb-4 text-center lg:text-left">Quick Links</h6>
                   <ul class="grid grid-cols-2 gap-y-6 text-center lg:text-left max-w-[400px] mx-auto">
-                    <li><a class="text-black hover:text-primary text-15px " href="#">Home</a></li>
-                    <li><a class="text-black hover:text-primary text-15px " href="#">About</a></li>
-                    <li><a class="text-black hover:text-primary text-15px " href="#">Contact</a></li>
-                    <li><a class="text-black hover:text-primary text-15px " href="#">FAQs</a></li>
+                    <li><a class="text-black hover:text-primary text-15px " href="./index.html">Home</a></li>
+                    <li><a class="text-black hover:text-primary text-15px " href="./about.html">About</a></li>
+                    <li><a class="text-black hover:text-primary text-15px " href="./contact.html">Contact</a></li>
+                    <li><a class="text-black hover:text-primary text-15px " href="./faq.html">FAQs</a></li>
                     <li><a class="text-black hover:text-primary text-15px " href="#">Donate</a></li>
                     <li><a class="text-orange-700 font-semibold hover:text-primary text-15px " href="#">Emergency Resources</a></li>
                   </ul>
