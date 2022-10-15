@@ -7,11 +7,11 @@ const header = `
             </div>
             <nav>
               <ul class="flex gap-x-14 ">
-                <li><a class="text-black text-[18px] xl:text-xl" href="#">Home</a></li>
-                <li><a class="text-black text-[18px] xl:text-xl" href="#">Find A Therapist</a></li>
-                <li><a class="text-black text-[18px] xl:text-xl" href="#">Join As A Therapist</a></li>
-                <li><a class="text-black text-[18px] xl:text-xl" href="#">About</a></li>
-                <li><a class="text-black text-[18px] xl:text-xl" href="#">Contact</a></li>
+                <li><a class="text-black text-[18px] xl:text-xl" href="./index.html">Home</a></li>
+                <li><a class="text-black text-[18px] xl:text-xl" href="./find-therapist.html">Find A Therapist</a></li>
+                <li><a class="text-black text-[18px] xl:text-xl" href="./join-therapist.html">Join As A Therapist</a></li>
+                <li><a class="text-black text-[18px] xl:text-xl" href="./about.html">About</a></li>
+                <li><a class="text-black text-[18px] xl:text-xl" href="./contact.html">Contact</a></li>
               </ul>
             </nav>
           </div>
